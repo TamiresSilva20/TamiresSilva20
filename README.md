@@ -2,10 +2,10 @@
  
 ### Tamires Silva
 
-Estudante - Gestão da Tecnologia da Informação  4/6
 <div align="batoom">
   <a href="https://github.com/TamiresSilva20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TamiresSilva20&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TamiresSilva20&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TamiresSilva20&layout=compact&langs_count=7&theme=onedark"/>
 </div>
    
 </div>
