@@ -5,7 +5,7 @@
 Estudante - Gestão da Tecnologia da Informação  4/6
 <div align="batoom">
   <a href="https://github.com/TamiresSilva20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TamiresSilva20&layout=compact&langs_count=7&theme=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TamiresSilva20&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
 </div>
