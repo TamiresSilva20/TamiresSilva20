@@ -1,6 +1,7 @@
 ### Hi Everyone 👋
  
-### Tamires Silva
+### I am Tamires Silva
+🌱 I am a student of information technology management
 
 <div align="batoom">
   <a href="https://github.com/TamiresSilva20">
